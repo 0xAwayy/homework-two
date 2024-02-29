@@ -12,5 +12,3 @@
 - Press the remove entry button and enter the name you'd like to remove, then when finished press the enter button and it will remove that user.
 - Press the update entry button and enter the name of the user you'd like to update with their new id and points and it will update that users information accordingly.
 - Press the search entry button and enter the name of the user you'd like to search for and box will pop up showing the users name, points, and id.
-
-# homework-two
